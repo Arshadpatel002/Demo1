@@ -1,0 +1,75 @@
+.heading {
+    text-align: center;
+    margin-top: 3%;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: steelblue;
+    font-weight: 9000;
+    font-size: 300%;
+  }
+  
+  .container {
+    margin-top: 1%;
+    margin-left: 30%;
+    
+    width: 40%;
+    height: 550px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .container h1 {
+    margin: 0;
+    padding: 5%;
+    font-weight: 600;
+  
+    font-family: "Segoe UI", Tahoma, "Geneva", Verdana, sans-serif;
+    color: steelblue;
+    background-image: url(https://w.forfun.com/fetch/13/1342c6638d4a805fff75cbfbd85fab31.jpeg?h=600&r=0.5);
+  }
+  
+  .tx {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .txt {
+    padding: 1%;
+    margin-left: 6%;
+    margin-right: 8%;
+    background-color: aliceblue;
+  }
+  
+  .frm {
+    margin-left: 6%;
+    margin-top: 2%;
+    margin-bottom: 0;
+  }
+  
+  .btt {
+    padding: 2%;
+    margin-left: 6%;
+    margin-right: 8%;
+    margin-top: 5%;
+    font-size: x-large;
+    color: white;
+    background-color: steelblue;
+  }
+  
+  .btt:hover {
+    background-color: skyblue;
+  }
+  
+  .link {
+    font-family: "Arial Narrow Bold", sans-serif;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 26%;
+    margin-right: 8%;
+  }
+  
+  h5{
+    margin: 0;
+    padding: 0;
+    margin-left: 6%;
+    color: red;
+  }

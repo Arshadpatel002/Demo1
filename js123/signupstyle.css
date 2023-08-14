@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.nav{
+    text-align: center;
+    background-image: url(https://w.forfun.com/fetch/40/406dcfbd66f2eba1fdd642632c64ea26.jpeg?h=600&r=0.5);
+}
+.nav h3{
+    color: white;
+    font-family: 'Cambria, Cochin, Georgia, Times, 'Times 'New Roman', serif';
+}
+
+.container{
+    margin: 30%;
+    margin-top: 5%;
+    height: 10%;
+    width: 40%;
+    
+    align-items:center;
+    background-color: lightskyblue;
+    border-radius: 6% / 50%;
+    background-image: url(https://images.unsplash.com/photo-1590372648787-fa5a935c2c40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fHw%3D&w=1000&q=80);
+}    
+
+.inp{
+    margin-left: 20%;
+    background-color: aliceblue;
+    border: 1px solid black;
+    padding: 2%;
+}
+
+.txt{
+    margin: 5%;
+    margin-left: 20%;
+    color: black;
+    font-weight: 2000;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+
+}
+
+
+.btt{ 
+    margin-left: 50%;
+    margin-top: 7%;
+    padding: 4%;
+    font-size: medium;
+    background-color: lightblue;
+    border: none;
+    border-radius: 15%;
+}
+.btt:hover{
+    background-color: blue;
+    color: white;
+}
+
+.

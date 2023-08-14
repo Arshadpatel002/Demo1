@@ -1,0 +1,81 @@
+  
+  .container {
+    border-radius: 30px;
+    background-color: aliceblue;
+    height: 550px;
+    margin-top: 0;
+    margin-left: 400px;
+    margin-right: 400px;
+  }
+
+  
+  
+  .sign {
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    margin-left: 70px;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'TrebuchetMS', 'sans-serif';
+  
+  }
+  
+  
+  #fblogo {
+    height: 30px;
+    margin-top: 25px;
+    margin-left: 175px;
+   
+  }
+  #twlogo{
+    height: 30px;
+    margin-top: 25px;
+    margin-left: 10px;
+  }
+  
+  .mimage {
+    height: 182px;
+    width: 550px;
+  }
+  
+  .txt {
+    width: 365px;
+    height: 25px;
+    margin: 5px;
+    margin-left: 70px;
+    border-radius: 5px;
+  }
+  
+  .btt {
+    width: 375px;
+    height: 50px;
+    margin-left: 70px;
+    margin-top: 8px;
+    border-radius: 5px;
+    font-size: 20px;
+    color: black;
+    background-color:  #80b3ff;
+  }
+  .link1{
+    margin-left: 75px;
+    
+  }
+  
+  .link2 {
+    margin-left: 135px;
+  }
+  
+  .lk {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'TrebuchetMS', 'sans-serif';
+    margin-top: 15px;
+    
+    display: flex;
+    align-items: center;
+  }
+  
+  .signup {
+    display: flex;
+    align-items: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'TrebuchetMS', 'sans-serif';
+    margin-left: 170px;
+  }
